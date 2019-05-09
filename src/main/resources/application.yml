@@ -1,0 +1,2 @@
+swagger:
+  basePackage: com.gzyijian.swagger.rest.api.demo.restcontroller
